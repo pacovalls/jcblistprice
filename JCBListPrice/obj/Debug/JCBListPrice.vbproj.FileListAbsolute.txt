@@ -1,0 +1,24 @@
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.vbprojResolveAssemblyReference.cache
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.Form1.resources
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.Resources.resources
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.vbproj.GenerateResource.Cache
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.vbproj.CoreCompileInputs.cache
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.exe.config
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.exe
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.pdb
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.xml
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.exe
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.xml
+C:\Users\pacov\source\repos\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.pdb
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.exe.config
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.exe
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.pdb
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\bin\Debug\JCBListPrice.xml
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.vbprojAssemblyReference.cache
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.Form1.resources
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.Resources.resources
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.vbproj.GenerateResource.cache
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.vbproj.CoreCompileInputs.cache
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.exe
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.xml
+D:\pvalls\Documents\Proyectos Ahora\Geancar\JCBListPrice\JCBListPrice\obj\Debug\JCBListPrice.pdb
